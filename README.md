@@ -1,2 +1,4 @@
 # G
-G. emprea multi-universal
+G. multi-universal
+
+Deixem os créditos todas as vezes que forem utilizar este arquivo.
