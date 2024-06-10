@@ -1,4 +1,6 @@
 # G
 G. multi-universal
 
-Deixem os créditos todas as vezes que forem utilizar este arquivo para ganhar algo.
+Nome do autor original: GUSTAVO;
+Apelido do autor original: GuvTo;
+email de contato: yytoloano.gstv1@protonmail.com
